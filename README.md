@@ -9,7 +9,7 @@ This case study analyzes historical trip data from **Divvy**, a bike-share progr
 **Objective:** Design marketing strategies aimed at converting casual riders into annual members by understanding how they use Divvy bikes differently.
 
 **Key Stakeholders:**
-*   **Lily Moreno:** Director of Marketing
+*   **Director of Marketing** 
 *   **Cyclistic Marketing Executive Team**
 
 ---
